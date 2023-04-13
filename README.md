@@ -26,7 +26,7 @@ npm run lint
 ```
 
 ### Customize configuration Backend
-See [Cofiguration Reference] (https://github.com/typicode/json-server).
+See [Cofiguration Reference](https://github.com/typicode/json-server/).
 
 ### Customize configuration Frontend
 See [Configuration Reference](https://cli.vuejs.org/config/).
